@@ -3,7 +3,7 @@ header("Content-Type:text/html;charset=utf-8");
 $dbms='mysql';
 $dbname='a0923134417';
 $user='a0923134417';
-$pwd='13452366662';
+$pwd='*******';
 $host='localhost';
 $dsn="$dbms:host=$host;dbname=$dbname";
 try{
